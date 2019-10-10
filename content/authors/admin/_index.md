@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Xin LAI
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Fourth-year Undergraduate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Harbin Institute of Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include object detection, image debluring.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer Vision
+- Deep Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BEng. in Computer Science
+    institution: Harbin Institute of Technology
+    year: Aug. 2016 - Jul. 2020 (expected)
+  - course: Exchange Student in Computer Science
+    institution: The University of Hong Kong
+    year: Aug. 2018 - Jan. 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +41,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'mailto:laixin1998@outlook.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: weixin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: img/wechat.jpg
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/X-Lai
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -69,7 +63,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Currently, I am a fourth-year undergraduate student, majoring in Computer Science and Technology in Harbin Institute of Technology(HIT). Before that, I was an exchange student in Computer Science Department of the University of Hong Kong(HKU).\\
+I am interested in Computer Vision and Deep Learning. And I will pursue my Ph.D in the Chinese University of Hong Kong (CUHK) starting in 2020.
